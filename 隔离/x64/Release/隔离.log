@@ -1,0 +1,45 @@
+﻿  Performing Custom Build Tools
+  Microsoft (R) Macro Assembler (x64) Version 14.44.35217.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: version_jump.asm
+  creatwth.cpp
+  detours.cpp
+  disasm.cpp
+  disolarm.cpp
+  disolarm64.cpp
+  disolia64.cpp
+  disolx64.cpp
+  disolx86.cpp
+  modules.cpp
+  version.cpp
+C:\Users\Administrator\Desktop\双机子弹追踪 - 副本\隔离\SSS.h(607,52): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“version.cpp”)
+  
+C:\Users\Administrator\Desktop\双机子弹追踪 - 副本\隔离\SSS.h(639,29): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“version.cpp”)
+  
+C:\Users\Administrator\Desktop\双机子弹追踪 - 副本\隔离\SSS.h(660,71): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“version.cpp”)
+  
+C:\Users\Administrator\Desktop\双机子弹追踪 - 副本\隔离\SSS.h(663,68): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“version.cpp”)
+  
+C:\Users\Administrator\Desktop\双机子弹追踪 - 副本\隔离\SSS.h(675,58): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“version.cpp”)
+  
+C:\Users\Administrator\Desktop\双机子弹追踪 - 副本\隔离\SSS.h(681,91): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“version.cpp”)
+  
+C:\Users\Administrator\Desktop\双机子弹追踪 - 副本\隔离\SSS.h(699,58): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“version.cpp”)
+  
+C:\Users\Administrator\Desktop\双机子弹追踪 - 副本\隔离\SSS.h(704,91): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“version.cpp”)
+  
+    正在创建库 C:\Users\Administrator\Desktop\双机子弹追踪 - 副本\x64\Release\version.lib 和对象 C:\Users\Administrator\Desktop\双机子弹追踪 - 副本\x64\Release\version.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 611 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  隔离.vcxproj -> C:\Users\Administrator\Desktop\双机子弹追踪 - 副本\x64\Release\version.dll

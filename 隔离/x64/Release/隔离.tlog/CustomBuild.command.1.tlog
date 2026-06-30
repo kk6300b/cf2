@@ -1,0 +1,2 @@
+^C:\USERS\ADMINISTRATOR\DESKTOP\双机子弹追踪 - 副本\隔离\VERSION_JUMP.ASM
+ml64 /Fo x64\Release\version_jump.obj /c /Cp version_jump.asm
